@@ -1,7 +1,7 @@
 import pom from './pom'
 const { faker } = require('@faker-js/faker');
 
-describe('Admin Page Test', () => {
+describe('Register Page Test', () => {
   beforeEach(() => {
     pom.navigate()
   });
